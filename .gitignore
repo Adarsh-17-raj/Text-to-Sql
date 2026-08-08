@@ -1,0 +1,5 @@
+data/*.db
+data/*.sqlite
+.venv/
+.env
+__pycache__/
